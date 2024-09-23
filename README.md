@@ -78,7 +78,8 @@ plt.imshow(res)
 plt.axis('off')
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/286c4f7b-b2ba-4593-a1ba-7883bb85c934)
+![image](https://github.com/user-attachments/assets/28a9b0dc-1c8d-4588-8491-3a9e7a861903)
+
 
 
 
@@ -90,7 +91,8 @@ plt.imshow(resc)
 plt.axis('on')
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/7465ef34-f123-4ccd-89d1-545ddad3f998)
+![image](https://github.com/user-attachments/assets/437842e3-592f-4ef1-b8db-f8f73e3d14e5)
+
 
 
 
