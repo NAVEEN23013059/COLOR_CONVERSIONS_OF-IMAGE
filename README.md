@@ -61,11 +61,6 @@ Save the final modified image to your local directory.
 
 
 ## Program:
-### Developed By: Jerowin Geo J A
-### Register Number: 212223100016
-
-
-## Output:
 
 ### 1. Read and display the image
 i.Load an image from your local directory and display it.
